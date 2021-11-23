@@ -33,16 +33,6 @@ header h1{
     text-align: center;
 }
 
-.menu{
-    background-color:white;
-    width:500px;
-    color:#191970;
-    border: 3px solid #191970;
-    text-align: center; 
-    margin: 10px 0px;
-}
-
-
 .backhome{
     margin-top: 20px;
 }
